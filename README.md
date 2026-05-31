@@ -1,6 +1,6 @@
 # System Information Dashboard
 
-A beautiful and colorful Dashboard displays a live os summary in terninal using bash scripting
+A beautiful and colorful Dashboard displays a live os summary in terminal using bash scripting
 
 ## Screenshot
 
